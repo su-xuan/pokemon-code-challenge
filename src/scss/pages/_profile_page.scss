@@ -1,0 +1,32 @@
+.profile-page {
+    
+    font-size: 2rem;
+
+    .img-fluid {
+        width: 100%;
+    }
+
+    .right-col {
+        text-align: center;
+        margin-top: 11rem;
+        text-transform: capitalize;
+        h2 {
+            font-size: 8rem;
+        }
+    }
+
+    .bottom-col {
+        margin-left: 4rem;
+    }
+    
+    .bottom-row {
+        justify-content: space-evenly;
+    }
+
+
+    ul {
+        font-size: 1.5rem;
+        list-style: none;
+        columns: 3;
+    }
+}
